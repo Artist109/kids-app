@@ -9,5 +9,5 @@ jobs:
       - name: Print few lines
         run: |
           echo first line
-          acho second line
+          echo second line
     
